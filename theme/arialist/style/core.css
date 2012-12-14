@@ -13,8 +13,7 @@ a {
 }
 
 a:hover {
-    background: #EBEBEB;
-    color: #333;
+    text-decoration: underline;
 }
 
 #wrapper {
@@ -206,7 +205,6 @@ h2.headingblock {
 .forumpost .content .attachments, 
 .forumpost .options .footer, 
 .forumpost .options .link {
-    text-align: right;
     background: #F7F7F7 !important;
     padding: 5px 10px;
     border-radius: 0 0 0.5em 0.5em;
