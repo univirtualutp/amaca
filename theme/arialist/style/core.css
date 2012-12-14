@@ -49,7 +49,7 @@ fieldset#general legend {
 ----------------------------*/
 
 #page-header {
-    padding: 50px 0 25px;
+    padding: 10px 0 0 10px;
 }
 
 #page-site-index #page-header {
@@ -180,7 +180,7 @@ h2.headingblock {
 --------------------------*/
 
 .forumpost .topic {
-    background: #eee;
+    background: #F7F7F7;
     border-width: 0;
     padding: 4px 10px 4px;
 }
