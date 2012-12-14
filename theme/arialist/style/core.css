@@ -109,7 +109,7 @@ fieldset#general legend {
     background: #00AF51;
     border-radius: 0.3em;
     color: #FFFFFF;
-    font-size: larger;
+    font-size: large;
     font-weight: bold;
     border-bottom: 1px dashed #00AF51;
     padding-bottom: 5px;
@@ -181,12 +181,14 @@ h2.headingblock {
 
 .forumpost .topic {
     background: #F7F7F7;
-    border-width: 0;
-    padding: 4px 10px 4px;
+    padding: 8px 18px;
+    border-radius: 0.5em 0.5em 0 0;
 }
 
 .forumpost .subject {
-    font-size: 1.25em;
+    color: #00AF51;
+    font-size: larger;
+    font-weight: bold;
 }
 
 .forumpost .author {
