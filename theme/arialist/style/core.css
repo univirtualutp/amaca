@@ -2,9 +2,11 @@
 ---------------------------*/
 
 body,h1,h2,h3,h4,h5,h6,p,ul,ol,dl,input,textarea {
+    background: #FFFFFF;
     font-family: arial, verdana, sans-serif;
-    line-height: 1.5;
+    /*line-height: 1.5em;*/
     color: #333;
+    font-size: medium;
 }
 
 a {
@@ -12,6 +14,7 @@ a {
 }
 
 a:hover {
+    background: #EBEBEB;
     color: #333;
 }
 
@@ -83,9 +86,11 @@ fieldset#general legend {
 ----------------------------*/
 
 .navbar {
-    background: #f1f1f1;
+    background: #F7F7F7;
     padding: 5px 10px;
-    border: 1px solid #ddd;
+    border: 1px solid #EEE;
+    border-radius: 0.5em;
+    box-shadow: -3px 3px 5px #EEE;
 }
 
 .breadcrumb .sep {
@@ -96,7 +101,11 @@ fieldset#general legend {
 ----------------------------*/
 
 .block {
-    border: none;
+    background: #F7F7F7;
+    padding: 5px 10px;
+    border: 1px solid #EEE;
+    border-radius: 0.5em;
+    box-shadow: -3px 3px 5px #EEE;
 }
 
 .block .header h2 {
