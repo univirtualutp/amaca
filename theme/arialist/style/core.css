@@ -18,7 +18,7 @@ a:hover {
 }
 
 #wrapper {
-    padding:0 100px;
+    padding:0 5%;
     border-top:15px solid #00AF51;
 }
 
@@ -192,14 +192,24 @@ h2.headingblock {
 }
 
 .forumpost .no-overflow {
-    border-width: 0 1px 10px;
+    border-width: 0 1px;
     border-style: solid;
-    border-color: #aaa #eee #eee;
-    margin: 0 1px 1px 1px;
+    border-color: #eee;
+    margin: 0 1px;
 }
 
 .forumpost .content .posting {
-    padding: 5px 10px 10px;
+    padding: 10px 20px;
+}
+
+.forumpost .options .commands, 
+.forumpost .content .attachments, 
+.forumpost .options .footer, 
+.forumpost .options .link {
+    text-align: right;
+    background: #F7F7F7;
+    padding: 5px 10px;
+    border-radius: 0 0 0.5em 0.5em;
 }
 
 /* Dock */
