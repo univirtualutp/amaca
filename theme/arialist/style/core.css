@@ -8,7 +8,7 @@ body,h1,h2,h3,h4,h5,h6,p,ul,ol,dl,input,textarea {
 }
 
 a {
-    color: #00AF51;
+    color: #00AF51 !important;
 }
 
 a:hover {
@@ -17,7 +17,7 @@ a:hover {
 
 #wrapper {
     padding:0 100px;
-    border-top:15px solid #eee;
+    border-top:15px solid #00AF51;
 }
 
 h2,h3,h4,h5,h6 {
