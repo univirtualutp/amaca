@@ -55,6 +55,7 @@ echo $OUTPUT->doctype() ?>
             <div id="page-header-wrapper" class="wrapper clearfix">
 
                 <div id="header-left">
+                    <img src="<?php echo $OUTPUT->pix_url('logo-amaca-vertical', 'theme')?>" alt="AMACA - UCEVA"/>
                     <?php if (!empty($PAGE->theme->settings->logo)) { ?>
                         <a href="<?php echo $CFG->wwwroot; ?>" title="Home"><img id="logo" src="<?php echo $logourl; ?>" alt="Logo" /></a>
                     <?php } else { ?>
