@@ -47,7 +47,6 @@ echo $OUTPUT->doctype() ?>
                     <?php if ($hasheading) { ?>
                         <div id="header-left">
                             <img src="<?php echo $OUTPUT->pix_url('logo-amaca-vertical', 'theme')?>" alt="AMACA - UCEVA"/>
-                            <h1 class="headermain inside"><?php echo $PAGE->heading ?></h1>
                         </div>
                         <div class="headermenu"><?php
                             echo $OUTPUT->login_info();
