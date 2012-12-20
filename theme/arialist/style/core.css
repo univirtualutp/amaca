@@ -53,8 +53,8 @@ fieldset#general legend {
 }
 
 #page-site-index #page-header {
+    border-bottom: 1px dashed #00AF51;
     padding-bottom: 10px;
-    background: #FF0099;
 }
 
 #header-left {
