@@ -59,6 +59,11 @@ fieldset#general legend {
 
 #header-left {
     float: left;
+    width: 50%;
+}
+
+#header-left img {
+    width: 100%;
 }
 
 .headermain,
