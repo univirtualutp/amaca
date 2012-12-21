@@ -18,7 +18,7 @@ a:hover {
 
 #wrapper {
     padding:0 5%;
-    border-top:15px solid #00AF51;
+    border-top: 20px solid #00AF51;
 }
 
 h2,h3,h4,h5,h6 {
@@ -84,7 +84,13 @@ fieldset#general legend {
 }
 
 #page-header p {
-    color:#999;
+    color:#FF9;
+}
+
+#page-footer {
+    background: #F7F7F7;
+    border-top: 20px solid #00AF51;
+    padding-top: 1.5em;
 }
 
 /* Navbar
