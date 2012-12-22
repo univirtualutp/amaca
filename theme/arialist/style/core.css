@@ -77,6 +77,10 @@ fieldset#general legend {
     margin: 0;
 }
 
+.headermenu img {
+    margin-top: 1em;
+}
+
 #page-header h1 {
     float: none;
     font-size: 2.25em;
