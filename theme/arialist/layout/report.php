@@ -105,12 +105,11 @@ echo $OUTPUT->doctype() ?>
 
         <?php if ($hasfooter) { ?>
             <div id="page-footer" class="wrapper">
-                <p class="helplink"><?php echo page_doc_link(get_string('moodledocslink')) ?></p>
-                <?php
-                    echo $OUTPUT->login_info();
-                    echo $OUTPUT->home_link();
-                    echo $OUTPUT->standard_footer_html();
-                ?>
+        
+        <a href="http://www.uceva.edu.co/" title="UCEVA Unidad Cenral del Valle del Cauca" target="_blank" >
+                <img src="<?php echo $OUTPUT->pix_url('uceva-logo-blanco', 'theme')?>" alt="UCEVA Unidad Cenral del Valle del Cauca" />
+        </a>
+
             </div>
         <?php } ?>
 
