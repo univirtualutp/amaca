@@ -64,7 +64,7 @@ echo $OUTPUT->doctype() ?>
                         echo $PAGE->headingmenu;
                     ?>
 
-                    <p></p>
+                    <p>fred</p>
 
                     <img src="<?php echo $OUTPUT->pix_url('uceva-logo', 'theme')?>" alt="UCEVA Unidad Cenral del Valle del Cauca" />
                 </div>
