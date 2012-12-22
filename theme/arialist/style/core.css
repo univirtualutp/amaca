@@ -145,8 +145,8 @@ fieldset#general legend {
 }
 
 .descriptionbox {
-    border: 1px solid #EEEEEE;
-    border-radius: 0.5em;
+    border: 1px solid #EEEEEE !important;
+    border-radius: 0.5em !important;
 }
 
 /* Courses 
