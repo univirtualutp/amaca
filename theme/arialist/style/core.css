@@ -88,8 +88,9 @@ fieldset#general legend {
 }
 
 #page-footer {
-    color: #FFFFFF;
     background: #00AF51;
+    border-bottom: 8px solid #F7F7F7;
+    color: #FFFFFF;
     padding: 1em 0;
 }
 
