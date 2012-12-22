@@ -149,6 +149,10 @@ fieldset#general legend {
     border-radius: 0.5em !important;
 }
 
+.path-user .description {
+    border-bottom: 1px dotted #00AF51 !important; 
+}
+
 /* Courses 
 ----------------------------*/
 
