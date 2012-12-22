@@ -88,9 +88,13 @@ fieldset#general legend {
 }
 
 #page-footer {
-    background: #F7F7F7;
-    border-top: 20px solid #00AF51;
+    color: yellow;
+    background: #00AF51;
     padding-top: 1.5em;
+}
+
+#page-footer a {
+    color: #FFFFFF;
 }
 
 /* Navbar
