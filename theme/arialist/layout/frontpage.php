@@ -104,7 +104,7 @@ echo $OUTPUT->doctype() ?>
 <!-- START OF FOOTER -->
     <div id="page-footer" class="wrapper clearfix">
 
-        <a href="http://www.uceva.edu.co/" title="UCEVA Unidad Cenral del Valle del Cauca">
+        <a href="http://www.uceva.edu.co/" title="UCEVA Unidad Cenral del Valle del Cauca" target="_blank" >
                 <img src="<?php echo $OUTPUT->pix_url('uceva-logo-blanco', 'theme')?>" alt="UCEVA Unidad Cenral del Valle del Cauca" />
         </a>
 

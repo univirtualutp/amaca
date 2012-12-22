@@ -90,7 +90,7 @@ fieldset#general legend {
 #page-footer {
     color: #FFFFFF;
     background: #00AF51;
-    padding-top: 1.5em;
+    padding: 1em 0 2em 0;
 }
 
 #page-footer a {
