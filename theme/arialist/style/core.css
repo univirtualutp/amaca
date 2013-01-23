@@ -224,11 +224,16 @@ h2.headingblock {
 }
 
 .mod-indent {
-    background: #F5F7D2;
+    background: #F7F7F7;
+    padding: 5px 10px;
+    border: 1px solid #EEE;
+    border-radius: 0.5em;
+    box-shadow: -3px 3px 5px #EEE;
+/*    background: #F5F7D2;
     margin-top: 2px;
     margin-bottom: 2px;
     padding: 3px 5px;
-    border-left: 2px solid #D2D73C;
+    border-left: 2px solid #D2D73C;*/
 }
 
 /* Forum 
