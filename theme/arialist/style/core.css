@@ -79,6 +79,7 @@ fieldset#general legend {
 
 .headermenu img {
     margin-top: 2em;
+    width: 80%;
 }
 
 #page-header h1 {
@@ -129,6 +130,10 @@ fieldset#general legend {
     border: 1px solid #EEE;
     border-radius: 0.5em;
     box-shadow: -3px 3px 5px #EEE;
+}
+
+.block .content {
+    padding: 0 0.5em;
 }
 
 .block .header h2 {
