@@ -265,6 +265,7 @@ h2.headingblock {
 
 .forumpost .topic {
     background: #F7F7F7;
+    border: 1px solid #eee;
     padding: 8px 18px;
     border-radius: 0.5em 0.5em 0 0;
 }
@@ -284,7 +285,6 @@ h2.headingblock {
     border-width: 0 1px;
     border-style: solid;
     border-color: #eee;
-    margin: 0 1px;
 }
 
 .forumpost .content .posting {
@@ -296,6 +296,7 @@ h2.headingblock {
 .forumpost .options .footer, 
 .forumpost .options .link {
     background: #F7F7F7 !important;
+    border: 1px solid #eee;
     padding: 5px 10px;
     border-radius: 0 0 0.5em 0.5em;
 }
