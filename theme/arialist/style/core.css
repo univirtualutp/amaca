@@ -293,12 +293,15 @@ h2.headingblock {
 
 .forumpost .options .commands, 
 .forumpost .content .attachments, 
-.forumpost .options .footer, 
-.forumpost .options .link {
+.forumpost .options .footer {
     background: #F7F7F7 !important;
     border: 1px solid #eee;
     padding: 5px 10px;
     border-radius: 0 0 0.5em 0.5em;
+}
+
+.forumpost .options .link {
+    padding: 5px 10px;
 }
 
 .forumpost .picture img {
