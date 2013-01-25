@@ -107,6 +107,10 @@ fieldset#general legend {
     color: #F7F7F7 !important;
 }
 
+.contacto_info {
+    float: left;
+}
+
 /* Navbar
 ----------------------------*/
 
