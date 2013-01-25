@@ -343,15 +343,17 @@ h2.headingblock {
 .forumpost .picture img {
     border: 1px solid #EEEEEE;
     border-radius: 0.5em;
-    box-shadow: 3px 3px 5px #EEE;
-    margin: 5px 0;
+    box-shadow: -3px 3px 5px #EEE;
+    margin: 6px 0 0 6px;
 }
 
 .forumpost .row .left {
     width: 3em;
 }
 
-.forumpost .row .topic {
+.forumpost .row .topic, 
+.forumpost .row .content-mask, 
+.forumpost .row .options {
     margin-left: 3em;
 }
 
