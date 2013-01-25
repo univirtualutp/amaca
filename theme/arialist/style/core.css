@@ -116,6 +116,8 @@ fieldset#general legend {
 .contacto_info {
     border-left: 1px dashed #FFFFFF;
     float: left;
+    margin-left: 3em;
+    padding-left: 2em;
 }
 
 /* Navbar
