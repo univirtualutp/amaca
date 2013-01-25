@@ -312,19 +312,21 @@ h2.headingblock {
 /* Dock */
 
 #dock {
-    background: #eee;
+    background: #00AF51;
     border: none;
+    width: 2em;
 }
 
 #dock .firstdockitem {
-    margin-top: 15px;
+    margin-top: 20px;
 }
 
 #dock .dockeditem {
     background-color: #fff;
-    border: 1px solid #eee;
-    border-width: 0 1px 1px 0;
+    border-right: 1px dashed #00AF51;
     padding: 3px 0;
+    border-radius: 0.5em 0 0 0.5em;
+    margin-bottom: 0.2em;
 }
 
 #dock .dockeditem .dockedtitle {
