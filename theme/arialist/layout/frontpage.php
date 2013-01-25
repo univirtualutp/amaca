@@ -107,13 +107,19 @@ echo $OUTPUT->doctype() ?>
     </div> <!-- END #wrapper -->
 
 <!-- START OF FOOTER -->
-    <div id="page-footer" class="wrapper clearfix">
-
-        <a href="http://www.uceva.edu.co/" title="UCEVA Unidad Cenral del Valle del Cauca" target="_blank" >
-                <img src="<?php echo $OUTPUT->pix_url('uceva-logo-blanco', 'theme')?>" alt="UCEVA Unidad Cenral del Valle del Cauca" />
-        </a>
-
-       </div>
+    <div id="page-footer" class="wrapper">
+            
+        <div id="logo-footer"><a href="http://www.uceva.edu.co/" title="UCEVA Unidad Cenral del Valle del Cauca" target="_blank" >
+          <img src="<?php echo $OUTPUT->pix_url('uceva-logo-blanco', 'theme')?>" alt="UCEVA Unidad Cenral del Valle del Cauca" />
+        </a></div>
+        
+        <div class="contacto_info">
+        Unidad Central del Valle del Cauca<br>
+		Carrera 27 A No. 48-144 Kilómetro 1 Salida Sur<br>
+		Tuluá - Colombia<br>
+		Teléfono: 2242202 ext.162  Fax: 2259051<br>
+		E-mail: <a href="mailto:bienestar@uceva.edu.co" target="_blank">bienestar@uceva.edu.co</a></div>
+		</div>
 
 <!-- END OF FOOTER -->
 
