@@ -347,6 +347,14 @@ h2.headingblock {
     margin: 5px 0;
 }
 
+.forumpost .row .left {
+    width: 3em;
+}
+
+.forumpost .row .topic {
+    margin-left: 3em;
+}
+
 /* Dock */
 
 #dock {
