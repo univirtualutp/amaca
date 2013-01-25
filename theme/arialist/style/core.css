@@ -273,6 +273,18 @@ h2.headingblock {
     padding: 0.25em;
 }
 
+#intro {
+    background: #F7F7F7;
+    border: 1px solid #EEE;
+    border-radius: 0.5em;
+    box-shadow: -3px 3px 5px #EEE;
+    margin: 1em 0;
+}
+
+#intro.generalbox {
+
+}
+
 /* Forum 
 --------------------------*/
 
