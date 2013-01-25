@@ -118,10 +118,11 @@ echo $OUTPUT->doctype() ?>
                 <img src="<?php echo $OUTPUT->pix_url('uceva-logo-blanco', 'theme')?>" alt="UCEVA Unidad Cenral del Valle del Cauca" />
         </a>
         
-      Unidad Central del Valle del Cauca<br>
-Carrera 27 A No. 48-144 Kilómetro 1 Salida Sur Tuluá - Colombia<br>
-Teléfono: 2242202 ext. 162  Fax: 2259051<br>
-E-mail: <a href="mailto:bienestar@uceva.edu.co" target="_blank">bienestar@uceva.edu.co</a></div>
+        <div class="contacto_info">Unidad Central del Valle del Cauca<br>
+          Carrera 27 A No. 48-144 Kilómetro 1 Salida Sur Tuluá - Colombia<br>
+          Teléfono: 2242202 ext. 162  Fax: 2259051<br>
+          E-mail: <a href="mailto:bienestar@uceva.edu.co" target="_blank">bienestar@uceva.edu.co</a></div>
+</div>
         <?php } ?>
 
 </div>
