@@ -50,6 +50,10 @@ fieldset#general legend {
     border-radius: 0.5em;
 }
 
+.adminsearchform {
+    padding-bottom: 10px;
+}
+
 /* Header
 ----------------------------*/
 
@@ -249,6 +253,15 @@ h2.headingblock {
     padding: 1em;
 }
 
+.course_category_tree .category .course {
+    background: #F7F7F7;
+    padding: 5px 10px;
+    border: 1px solid #EEE;
+    border-radius: 0.5em;
+    box-shadow: -3px 3px 5px #EEE;
+    margin-bottom: 0.5em;
+}
+
 .modtype_label .mod-indent {
     background: none;
     border: none;
@@ -328,8 +341,10 @@ h2.headingblock {
 }
 
 .forumpost .picture img {
+    border: 1px solid #EEEEEE;
+    border-radius: 0.5em;
+    box-shadow: 3px 3px 5px #EEE;
     margin: 5px 0;
-    border: 2px solid #EEEEEE;
 }
 
 /* Dock */
