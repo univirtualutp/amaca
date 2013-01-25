@@ -114,7 +114,8 @@ fieldset#general legend {
 }
 
 .contacto_info {
-    /*float: left;*/
+    border-left: 1px dashed #FFFFFF;
+    float: left;
 }
 
 /* Navbar
