@@ -101,6 +101,7 @@ fieldset#general legend {
     background: #00AF51;
     color: #FFFFFF;
     padding: 1.5em 0 2em;
+    text-align: left;
 }
 
 #page-footer a {
