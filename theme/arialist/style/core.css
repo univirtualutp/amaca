@@ -274,15 +274,13 @@ h2.headingblock {
 }
 
 #intro {
-    background: #F7F7F7;
-    border: 1px solid #EEE;
+    border: 1px dashed #00AF51;
     border-radius: 0.5em;
-    box-shadow: -3px 3px 5px #EEE;
-    margin: 1em 0;
+    margin: 2em;
 }
 
 #intro.generalbox {
-
+    padding: 1em;
 }
 
 /* Forum 
