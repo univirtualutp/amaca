@@ -187,6 +187,11 @@ fieldset#general legend {
     margin: 1em 25%;
 }
 
+.loginbox .guestsub, .loginbox .forgotsub, .loginbox .potentialidps {
+    background: white;
+    border-radius: 0.5em;
+    margin: 0.5em;
+}
 
 /* Courses 
 ----------------------------*/
