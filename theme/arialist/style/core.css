@@ -179,6 +179,15 @@ fieldset#general legend {
     border-bottom: 1px dotted #00AF51 !important; 
 }
 
+.loginbox {
+    background: #F7F7F7;
+    border: 1px solid #EEE;
+    border-radius: 0.5em;
+    box-shadow: -3px 3px 5px #EEE;
+    margin: 1em 25%;
+}
+
+
 /* Courses 
 ----------------------------*/
 
