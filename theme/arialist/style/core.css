@@ -320,6 +320,15 @@ h2.headingblock {
     border-bottom: 1px solid #00AF51;
 }
 
+.categorylist {
+    background: #F7F7F7;
+    padding: 5px 10px;
+    border: 1px solid #EEE;
+    border-radius: 0.5em;
+    box-shadow: -3px 3px 5px #EEE;
+    margin: 0 0 1em 1em;
+}
+
 /* Forum 
 --------------------------*/
 
@@ -429,7 +438,6 @@ h2.headingblock {
 
 #dockeditempanel .dockeditempanel_hd h2 {
     color: #333;
-    font-size: large;
     font-weight: bold;
     padding: 0 2px;
 }
