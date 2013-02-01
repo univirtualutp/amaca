@@ -318,7 +318,7 @@ h2.headingblock {
 .environmenttable th, 
 .forumheaderlist th {
     background: #F7F7F7;
-    border-bottom: 2px solid #00AF51;
+    border-bottom: 1px solid #00AF51;
 }
 
 /* Forum 
@@ -412,7 +412,10 @@ h2.headingblock {
 }
 
 #dockeditempanel .dockeditempanel_content {
-    border-color: #eee;
+    padding: 5px;
+    border: 1px solid #eee;
+    border-radius: 0.5em;
+    margin: 0 5px;
 }
 
 #dockeditempanel .dockeditempanel_hd {
