@@ -57,6 +57,10 @@ fieldset#general legend {
 /* Header
 ----------------------------*/
 
+#page {
+    font-size: large;
+}
+
 #page-header {
     padding: 10px 0 0 10px;
 }
@@ -322,11 +326,12 @@ h2.headingblock {
 
 .categorylist {
     background: #F7F7F7;
-    padding: 5px 10px;
     border: 1px solid #EEE;
     border-radius: 0.5em;
     box-shadow: -3px 3px 5px #EEE;
     margin: 0 0 1em 1em;
+    padding: 5px 10px;
+    width: auto;
 }
 
 /* Forum 
