@@ -419,16 +419,18 @@ h2.headingblock {
 
 #dockeditempanel .dockeditempanel_hd {
     border-bottom: none;
-    padding: 3px 5px;
-    background: #eee;
     text-align: left;
+    background: #F7F7F7;
+    border-radius: 0.3em;
+    font-size: large;
+    font-weight: bold;
+    padding: 0 5px;
 }
 
 #dockeditempanel .dockeditempanel_hd h2 {
     color: #333;
-    text-align: right;
-    font-weight: normal;
-    font-size: 0.8em;
+    font-size: large;
+    font-weight: bold;
     padding: 0 2px;
 }
 
