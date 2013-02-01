@@ -310,6 +310,17 @@ h2.headingblock {
     padding: 1em;
 }
 
+#page-admin-course-category .generalbox th, 
+.editcourse .header, 
+.results .header, 
+#attempts .header, 
+.generaltable .header, 
+.environmenttable th, 
+.forumheaderlist th {
+    background: #F7F7F7;
+    border-bottom: 2px solid #00AF51;
+}
+
 /* Forum 
 --------------------------*/
 
