@@ -68,7 +68,7 @@ table#user-grades tr.odd th {
 }
 
 .mform fieldset {
-    border: 1px solid #EEE;
+    border: 1px dashed #00AF51;
     border-radius: 0.5em;
 }
 
@@ -81,6 +81,19 @@ table#user-grades tr.odd th {
     border: 1px solid #EEEEEE;
     border-radius: 0.5em;
     box-shadow: 2px 3px 5px #EEEEEE;
+}
+
+.message .messagearea {
+    border-left: 1px dashed #00AF51;
+}
+
+.message .messagearea .messagerecent .singlemessage .messagedate {
+    background-color: rgba(0, 175, 81, 0.1);
+    border-radius: 1em;
+    color: #00AF51;
+    float: none;
+    font-size: 0.9em;
+    padding: 0 1em;
 }
 
 /* Header
@@ -245,6 +258,10 @@ table#user-grades td.controls,
     padding-top: 1em;
 }
 
+.generalbox {
+    border-color: #EEEEEE;
+    border-radius: 0.5em;
+}
 
 /* Courses 
 ----------------------------*/
@@ -372,6 +389,12 @@ h2.headingblock {
 .forumheaderlist th {
     background: #F7F7F7;
     border-bottom: 1px solid #00AF51;
+}
+
+#page-admin-index .adminwarning {
+    border: 1px solid #EEEEEE;
+    background: #F7F7F7;
+    border-radius: 0.5em;
 }
 
 .categorylist {
