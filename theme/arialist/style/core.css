@@ -45,13 +45,17 @@ fieldset#general legend {
     background: #fff;
 }
 
+table#user-grades tr.odd th.header {
+    background-color: #EEEEEE;    
+}
+
 table#user-grades tr.odd td.cell {
     background: #F7F7F7;
 }
 
 table#fixed_column tr.odd th, 
 table#user-grades tr.odd th {
-    background-color: #F7F7F7;
+    background-color: #EEEEEE;
 }
 
 .mform fieldset {
@@ -203,7 +207,6 @@ table#user-grades td.controls,
     background: rgba(0, 175, 81, 0.1);
 }
 
-
 .loginbox {
     background: #F7F7F7;
     border: 1px solid #EEE;
@@ -217,6 +220,14 @@ table#user-grades td.controls,
     border-radius: 0.5em;
     margin: 0.5em;
 }
+
+#helppopupbox {
+    background: #F7F7F7;
+    border: 1px solid #EEE;
+    border-radius: 0.5em;
+    box-shadow: -3px 3px 5px #EEE;
+}
+
 
 /* Courses 
 ----------------------------*/
