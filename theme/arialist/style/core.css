@@ -45,6 +45,15 @@ fieldset#general legend {
     background: #fff;
 }
 
+table#user-grades tr.odd td.cell {
+    background: #F7F7F7;
+}
+
+table#fixed_column tr.odd th, 
+table#user-grades tr.odd th {
+    background-color: #F7F7F7;
+}
+
 .mform fieldset {
     border: 1px solid #EEE;
     border-radius: 0.5em;
@@ -181,6 +190,19 @@ fieldset#general legend {
 .path-user .description {
     border-bottom: 1px dotted #00AF51 !important; 
 }
+
+.path-grade-report-grader table tr.avg td.cell, 
+table#user-grades td.controls, 
+.path-grade-report-grader table tr.avg, 
+.path-grade-report-grader table tr.avg td, 
+.path-grade-report-grader table tr.avg th {
+    background-color: rgba(0, 175, 81, 0.1);
+}
+
+.gradestable .lastrow th.header {
+    background: rgba(0, 175, 81, 0.1);
+}
+
 
 .loginbox {
     background: #F7F7F7;
