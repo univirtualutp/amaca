@@ -67,6 +67,13 @@ table#user-grades tr.odd th {
     padding-bottom: 10px;
 }
 
+.userprofile .profilepicture {
+    margin-right: 30px;
+    border: 1px solid #EEEEEE;
+    border-radius: 0.5em;
+    box-shadow: 2px 3px 5px #EEE;
+}
+
 /* Header
 ----------------------------*/
 
@@ -226,6 +233,7 @@ table#user-grades td.controls,
     border: 1px solid #EEE;
     border-radius: 0.5em;
     box-shadow: -3px 3px 5px #EEE;
+    padding-top: 1em;
 }
 
 
