@@ -26,6 +26,10 @@ h2,h3,h4,h5,h6 {
     font-weight: normal;
 }
 
+h2.main, h3.main, h4.main{
+    color: #00AF51;
+}
+
 blockquote {
     border-left:1px solid #eee;
     padding-left:15px;
@@ -194,7 +198,7 @@ table#user-grades tr.odd th {
 }
 
 .descriptionbox {
-    border: 1px solid #00AF51 !important;
+    border: 1px dashed #00AF51 !important;
     border-radius: 0.5em !important;
 }
 
