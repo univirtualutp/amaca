@@ -27,7 +27,12 @@ h2,h3,h4,h5,h6 {
 }
 
 h2.main, h3.main, h4.main{
-    color: #00AF51;
+    color: #FFFFFF;
+    background: #00AF51;
+    border-radius: 0.5em;
+    padding: 0.1em;
+    margin-bottom: 1em;
+    font-size: 1.1em;
 }
 
 blockquote {
