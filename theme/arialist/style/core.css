@@ -84,6 +84,12 @@ table#user-grades tr.odd th {
     padding-bottom: 10px;
 }
 
+.userpicture {
+    border: 1px solid #EEEEEE;
+    border-radius: 0.5em;
+    box-shadow: -3px 3px 5px #EEEEEE;
+}
+
 .userprofile .profilepicture {
     margin-right: 30px;
     border: 1px solid #EEEEEE;
@@ -116,7 +122,9 @@ table#user-grades tr.odd th {
 }
 
 .message .me {
-    border: 1px solid #00AF51;
+    border-bottom: 1px dashed #00AF51;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
 }
 
 /* Header
