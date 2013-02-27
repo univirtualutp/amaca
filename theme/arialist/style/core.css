@@ -71,7 +71,7 @@ table#user-grades tr.odd th {
     margin-right: 30px;
     border: 1px solid #EEEEEE;
     border-radius: 0.5em;
-    box-shadow: 2px 3px 5px #EEE;
+    box-shadow: 2px 3px 5px #EEEEEE;
 }
 
 /* Header
@@ -194,7 +194,7 @@ table#user-grades tr.odd th {
 }
 
 .descriptionbox {
-    border: 1px solid #EEEEEE !important;
+    border: 1px solid #00AF51 !important;
     border-radius: 0.5em !important;
 }
 
