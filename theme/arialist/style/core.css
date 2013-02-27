@@ -305,6 +305,10 @@ table#user-grades td.controls,
     border-radius: 0.5em;
 }
 
+.categorybox {
+    border: none !important;
+}
+
 /* Courses 
 ----------------------------*/
 
